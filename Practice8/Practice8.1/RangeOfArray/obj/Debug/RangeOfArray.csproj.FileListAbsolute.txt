@@ -1,0 +1,6 @@
+C:\Users\ЖаксылыковО\source\repos\Practice8.1\RangeOfArray\bin\Debug\RangeOfArray.dll
+C:\Users\ЖаксылыковО\source\repos\Practice8.1\RangeOfArray\bin\Debug\RangeOfArray.pdb
+C:\Users\ЖаксылыковО\source\repos\Practice8.1\RangeOfArray\obj\Debug\RangeOfArray.csprojAssemblyReference.cache
+C:\Users\ЖаксылыковО\source\repos\Practice8.1\RangeOfArray\obj\Debug\RangeOfArray.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\source\repos\Practice8.1\RangeOfArray\obj\Debug\RangeOfArray.dll
+C:\Users\ЖаксылыковО\source\repos\Practice8.1\RangeOfArray\obj\Debug\RangeOfArray.pdb
